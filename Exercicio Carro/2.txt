@@ -1,0 +1,2 @@
+uma classe pode ter dois ou mais construtores, porém todos precisam de assinaturas diferentes, no caso,
+qual construtor será usado depende dos parâmetros usados na construção do objeto.
